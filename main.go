@@ -1,3 +1,7 @@
+// Copyright (c) 2021 Pierce Bartine. All rights reserved.
+// Use of this source code is governed by the MIT License that can be found in
+// the LICENSE file.
+
 package main
 
 import (
@@ -35,7 +39,7 @@ seconds and then try again.`
 var version = "unknown"
 
 func main() {
-	if len(os.Args) > 0 {
+	if len(os.Args) > 1 {
 		if os.Args[1] == "-h" || os.Args[1] == "--help" {
 			fmt.Fprintln(os.Stderr, helpMsg)
 			os.Exit(0)
