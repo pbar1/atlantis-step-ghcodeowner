@@ -1,0 +1,4 @@
+github.com/kelseyhightower/envconfig v1.4.0 h1:Im6hONhd3pLkfDFsbRgu68RDNkGF1r3dvMUtDTo2cv8=
+github.com/kelseyhightower/envconfig v1.4.0/go.mod h1:cccZRl6mQpaq41TPp5QxidR+Sa3axMbJDNb//FQX6Gg=
+github.com/pbar1/atlantis-go v1.0.0 h1:ckYhd7Bw9ecva1l09Wk2fPxUSIs8IjiIIClajlfnjPI=
+github.com/pbar1/atlantis-go v1.0.0/go.mod h1:Qtn10ZhsJyQF62yelN/fUs6sP98WW9HOp6wdgLRei1U=
